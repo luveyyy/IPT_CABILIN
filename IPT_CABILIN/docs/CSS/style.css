@@ -62,7 +62,7 @@ body {
     padding: 100px 20px 50px;
     margin-top: 70px; /* Space for fixed navbar */
     height: 100vh;
-    background-image: url('/images/imagess.jpg'); /* Optional background image */
+    background-image: url('/IPT_CABILIN/docs/images/imagess.jpg'); /* Optional background image */
     background-size: cover;
     background-position: center;
 }
